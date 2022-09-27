@@ -72,8 +72,12 @@
 /.git/refs/tags/main
 /.git/refs/tags/master
 /.git/refs/tags/trunk
-/.git//refs/wip/index/refs/heads/master
-/.git//refs/wip/wtree/refs/heads/master
+/.git/refs/wip/index/refs/heads/main
+/.git/refs/wip/index/refs/heads/master
+/.git/refs/wip/index/refs/heads/trunk
+/.git/refs/wip/wtree/refs/heads/main
+/.git/refs/wip/wtree/refs/heads/master
+/.git/refs/wip/wtree/refs/heads/trunk
 /.git/shallow
 /.git/tree
 /.git/worktrees/
